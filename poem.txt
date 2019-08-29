@@ -14,9 +14,6 @@ We found this issues and resolved it
 Yellow
 These are colors
 More unicorns are needed!
-<<<<<<< HEAD
 Now ponies
-=======
 
 Onward to the castle!
->>>>>>> 31184b1b044e185e5b8c54c8d7011172702066e4
